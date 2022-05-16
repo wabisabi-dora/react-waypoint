@@ -1,3 +1,8 @@
+## 11.1.0
+
+- Update typing.
+- Add React 18 as dependency.
+
 ## 10.1.0
 
 - Classes are now compiled in loose mode, which should improve runtime performance.
