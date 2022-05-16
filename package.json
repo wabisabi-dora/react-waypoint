@@ -1,10 +1,11 @@
 {
-  "name": "@dnft/react-waypoint",
+  "name": "@clip-sub/react-waypoint",
   "version": "11.1.0",
   "description": "A React component to execute a function whenever you scroll to an element.",
   "main": "cjs/index.js",
   "module": "es/index.js",
   "types": "index.d.ts",
+  "private": false,
   "files": [
     "cjs",
     "es",
@@ -12,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wabisabi-dora/react-waypoint.git"
+    "url": "git@github.com:civiccc/react-waypoint.git"
   },
   "homepage": "https://github.com/wabisabi-dora/react-waypoint",
   "bugs": "https://github.com/civiccc/react-waypoint/issues",
